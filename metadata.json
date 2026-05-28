@@ -1,0 +1,6 @@
+{
+  "name": "CV Classifier Dashboard",
+  "description": "An SBERT-powered CV classification and recruitment recruitment compatibility dashboard featuring semantic gap analysis, recruiter analytics, and SBERT model metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
